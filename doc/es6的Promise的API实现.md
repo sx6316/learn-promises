@@ -192,4 +192,4 @@ P.allSettled = function (PromiseAllParam) {
 };
 ```
 
-## 有什么问题可以私聊或评论留言，[源码地址](https://github.com/sx6316/learn-promises/src/es6.js)
+## 有什么问题可以私聊或评论留言，[源码地址](../src/es6.js)
